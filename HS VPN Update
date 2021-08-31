@@ -4,3 +4,9 @@
    "title":"New version available ",
    "version": 1.0.0
 }
+{
+   "files": [    
+      {
+         "name": "Ooredoo_VIP1",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Ooredoo_VIP1.ovpn"
+      },
