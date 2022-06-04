@@ -1,11 +1,11 @@
 {
    "files": [    
       {
-         "name": "DtacNoPro1_VIP",
+         "name": "SG1-DtacNoPro1_VIP",
          "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Singapore1.ovpn"
       },
 {
-         "name": "DtacNoPro2_FREE",
+         "name": "SG2-DtacNoPro2_FREE",
          "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Singapore1.ovpn"
       }
 
@@ -13,5 +13,5 @@
 
 "message":"What's new \nAdded TH server",
    "title":"Do you want to update ?" ,
-   "version": 9
+   "version": 10
 }
