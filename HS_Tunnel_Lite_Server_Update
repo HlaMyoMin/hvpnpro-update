@@ -1,17 +1,17 @@
 {
    "files": [    
       {
-         "name": "SG1-DtacNoPro1_VIP",
+         "name": "SG1-DtacNoPro1_FREE",
          "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Singapore1.ovpn"
       },
 {
-         "name": "SG2-DtacNoPro2_FREE",
-         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Singapore1.ovpn"
+         "name": "SG2-DtacNoPro2_VIP",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/test2.ovpn"
       }
 
    ],
 
-"message":"What's new \nAdded SG server",
+"message":"What's new \nAdded SG2 server",
    "title":"Do you want to update ?" ,
-   "version": 11
+   "version": 12
 }
