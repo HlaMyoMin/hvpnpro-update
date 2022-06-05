@@ -1,20 +1,20 @@
 {
    "files": [    
       {
-         "name": "SG1-DtacNoPro1_FREE",
+         "name": "SG1-DtacNoPro1",
          "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Singapore1.ovpn"
       },
 {
-         "name": "SG2-Mytel-Business_FREE",
+         "name": "SG2-Mytel-Business",
          "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Singapore2.ovpn"
       },
 {
-         "name": "SG2-Ooredoo-SuperNet_FREE",
+         "name": "SG3-Ooredoo-SuperNet",
          "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Singapore3.ovpn"
       }
    ],
 
 "message":"What's new \nAdded SG2 server",
    "title":"Do you want to update ?" ,
-   "version": 13
+   "version": 14
 }
