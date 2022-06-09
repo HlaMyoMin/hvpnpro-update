@@ -1,17 +1,30 @@
 {
    "files": [    
       {
-         "name": "SG1-DtacNoPro1",
-         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Singapore1.ovpn"
+         "name": "MM_AllSimAllWifi",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/01.MM_AllSimAllWifi.ovpn"
       },
 {
-         "name": "SG2-Mytel-Business",
-         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Singapore2.ovpn"
+         "name": "SG_Ooredoo-SuperNet",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/02.SG_Ooredoo-SuperNet.ovpn"
       },
 {
-         "name": "SG3-Ooredoo-SuperNet",
-         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/Singapore3.ovpn"
+         "name": "SG_DtacNoPro_1",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/03.SG_DtacNoPro_1.ovpn"
+      },
+{
+         "name": "SG_DtacNoPro_2",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/01.03.SG_DtacNoPro_2.ovpn"
+      },
+{
+         "name": "SG_DtacNoPro_3",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/03.SG_DtacNoPro_3.ovpn"
+      },
+{
+         "name": "SG_Dtac90days_1",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/04.SG_Dtac90days_1.ovpn"
       }
+
    ],
 
 "message":"What's new \nAdded SG2 server",
