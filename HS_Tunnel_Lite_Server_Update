@@ -37,14 +37,35 @@
          "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/09.SG_DtacLine12_2.ovpn"
       },
 {
-         "name": "10.SG_DtacSocial_2",
-         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/10.SG_DtacSocial_2.ovpn"
+         "name": "10.SG_DtacSocial_1",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/10.SG_DtacSocial_1.ovpn"
+      },
+{
+         "name": "11.SG_DtacSocial_2",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/11.SG_DtacSocial_2.ovpn"
+      },
+{
+         "name": "12.SG_TrueNoPro_1",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/12.SG_TrueNoPro_1.ovpn"
+      },
+{
+         "name": "13.SG_TrueNoPro_2",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/13.SG_TrueNoPro_2.ovpn"
+      },
+{
+         "name": "14.SG_VPN-Ooredoo-2G",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/14.SG_VPN-Ooredoo-2G.ovpn"
+      },
+{
+         "name": "15.SG_VPN-Mpt-2G",
+         "url": "https://raw.githubusercontent.com/HlaMyoMin/HlaMyoMin/main/15.SG_VPN-Mpt-2G.ovpn"
       }
 
 
    ],
 
-"message":"What's new \nAdded SG2 server",
-   "title":"Do you want to update ?" ,
-   "version": 16
+"message":"🚀 Update config version - 17 \n📆 Latest update - June 15 2022\n \n📌What's new \n• Added SG Free server 🇸🇬 \n🟢All Sim All Wifi \n🟢Ooredoo-SuperNet \nOoredoo 2G \nMpt 2G \n🟢DtacNoPro \n🟢Dtac Line12  \n🟢Dtac Social \n🟢Dtac 90Days \n🟢TrueNoPro \n\nThank you for your support us❤️",
+   "title":"Do you want to update?",
+   "version": 17
+
 }
